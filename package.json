@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
+  "homepage": "https://SRB-Kautilya.github.io",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
@@ -22,6 +23,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+  
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
